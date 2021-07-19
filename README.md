@@ -1,7 +1,7 @@
 
-# Predicting Myocardial Infarction Looking at your Eyes
+# Seeing your Heart through your Eyes by Predicting Myocardial Infarction using Retinal Images and Demographic Data
 
-This is the project web for the study titled "Predicting Myocardial Infarction Looking at your Eyes". This study is under review in the journal Nature Machine Intelligence.
+This is the project web for the study titled "Seeing your Heart through your Eyes by Predicting Myocardial Infarction using Retinal Images and Demographic Data". This study is under review in the journal Nature Machine Intelligence.
 
 
 ----------------
@@ -75,7 +75,8 @@ Update log (Year.Month.Day):
 
 - 20.08.14: Code released.
 - 20.09.15: Network weights uploaded. Article under review.
-- 21.22.03: Created a branch for external validation
-- 21.08.04: Updated weights and main file for 7 metadata variables - External validation
-- 21.02.06: Upload all scripts used to address reviewers comments
+- 21.03.22: Created a branch for external validation
+- 21.04.08: Updated weights and main file for 7 metadata variables - External validation
+- 21.06.02: Upload all scripts used to address reviewers comments
+- 21.07.19: Update title for second review
 
